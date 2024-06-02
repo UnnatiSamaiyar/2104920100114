@@ -1,0 +1,143 @@
+[
+    {
+      "productname": "Smartphone X",
+      "price": 799,
+      "rating": 4.3,
+      "discount": 15,
+      "availability": true
+    },
+    {
+      "productname": "Laptop Y",
+      "price": 1299,
+      "rating": 4.8,
+      "discount": 10,
+      "availability": true
+    },
+    {
+      "productname": "Smart TV Z",
+      "price": 899,
+      "rating": 4.5,
+      "discount": 20,
+      "availability": true
+    },
+    {
+      "productname": "Wireless Earbuds A",
+      "price": 129,
+      "rating": 4.2,
+      "discount": 10,
+      "availability": false
+    },
+    {
+      "productname": "Tablet B",
+      "price": 399,
+      "rating": 4.1,
+      "discount": 5,
+      "availability": true
+    },
+    {
+      "productname": "Charger C",
+      "price": 19,
+      "rating": 4.6,
+      "discount": 0,
+      "availability": true
+    },
+    {
+      "productname": "Wireless Mouse D",
+      "price": 29,
+      "rating": 4.4,
+      "discount": 10,
+      "availability": true
+    },
+    {
+      "productname": "Mechanical Keypad E",
+      "price": 99,
+      "rating": 4.7,
+      "discount": 15,
+      "availability": true
+    },
+    {
+      "productname": "Bluetooth Speaker F",
+      "price": 79,
+      "rating": 4.2,
+      "discount": 10,
+      "availability": true
+    },
+    {
+      "productname": "USB Pendrive G",
+      "price": 15,
+      "rating": 4.5,
+      "discount": 5,
+      "availability": true
+    },
+    {
+      "productname": "Universal Remote H",
+      "price": 39,
+      "rating": 4.0,
+      "discount": 0,
+      "availability": true
+    },
+    {
+      "productname": "Portable Speaker I",
+      "price": 59,
+      "rating": 4.6,
+      "discount": 20,
+      "availability": true
+    },
+    {
+      "productname": "Wireless Headset J",
+      "price": 149,
+      "rating": 4.3,
+      "discount": 10,
+      "availability": true
+    },
+    {
+      "productname": "Budget Laptop K",
+      "price": 599,
+      "rating": 4.0,
+      "discount": 5,
+      "availability": true
+    },
+    {
+      "productname": "Desktop PC L",
+      "price": 899,
+      "rating": 4.7,
+      "discount": 15,
+      "availability": true
+    },
+    {
+      "productname": "Gaming Mouse M",
+      "price": 49,
+      "rating": 4.8,
+      "discount": 10,
+      "availability": true
+    },
+    {
+      "productname": "Mechanical Keyboard N",
+      "price": 129,
+      "rating": 4.6,
+      "discount": 20,
+      "availability": true
+    },
+    {
+      "productname": "Bluetooth Earphones O",
+      "price": 79,
+      "rating": 4.4,
+      "discount": 10,
+      "availability": true
+    },
+    {
+      "productname": "External HDD P",
+      "price": 99,
+      "rating": 4.5,
+      "discount": 15,
+      "availability": true
+    },
+    {
+      "productname": "4K TV Q",
+      "price": 1099,
+      "rating": 4.2,
+      "discount": 10,
+      "availability": true
+    }
+  ]
+  
